@@ -34,8 +34,6 @@ def get_events():
 	print (events)
 	return 'JSON posted'
 
-# AWS ID: AKIAIEXLQCSLHL4BYRPQ
-#AWS PASSWORD: J4pV/uPykFpOYPYnaGiU3AZXUxQ2Ubbe0OV6CWiK
 
 if __name__ == '__main__':
 	app.run(debug=True)
